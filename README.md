@@ -1,0 +1,2 @@
+# horoscopochino
+Ejercicio con array
